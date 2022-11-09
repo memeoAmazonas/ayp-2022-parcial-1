@@ -19,12 +19,12 @@
 
    * El pseudocódigo es una técnica para escribir algoritmos.
      - Verdadero(X)
-      - Falso( )
+     - Falso( )
 
 
    * La estructura iterativa como el (for, while, do-while), realiza las tareas sin hacer una sola repetición.
      - Verdadero( )
-     + Falso(X)
+     - Falso(X)
      
        Son ciclos, por ende hacen tareas repetitivas.
  
