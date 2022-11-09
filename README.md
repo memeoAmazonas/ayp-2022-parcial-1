@@ -18,7 +18,7 @@
      
 
    * El pseudocódigo es una técnica para escribir algoritmos.
-     - Verdadero(V)
+     - Verdadero(X)
       - Falso( )
 
 
