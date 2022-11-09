@@ -5,7 +5,7 @@
 **1. De las siguientes afirmaciones, marque con una X si considera que es verdadero o falso. (1 punto c/u)
    * La estructura (SWITCH) sólo ejecuta las tareas si se cumple una condición determinada.
    
-      **- Verdadero(X)
+      **- Verdadero(X)**
       - Falso( )
 
    
